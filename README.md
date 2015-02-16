@@ -1,5 +1,5 @@
 # CodeEval
-My solutions to [CodeEval](https://www.codeeval.com/dashboard/) challenges.
+My solutions to [CodeEval](https://www.codeeval.com/dashboard/) challenges. Comments are most welcome! Just open an issue or send me a message.
 
 My CodeEval profile is [here](http://www.codeeval.com/profile/leogargu/).
 
